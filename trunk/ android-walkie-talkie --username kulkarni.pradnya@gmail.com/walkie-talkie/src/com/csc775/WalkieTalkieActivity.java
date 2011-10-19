@@ -10,4 +10,5 @@ public class WalkieTalkieActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
+    
 }
